@@ -1,3 +1,9 @@
+// Code attribution
+// This method was taken from Github
+// https://github.com/marketplace/actions/automated-build-android-app-with-github-action#step-4-automated-build-on-actions-tab-on-your-github-repository
+// Faisal Amir; Frogobot
+// <https://github.com/amirisback><https://github.com/frogoboxbot>
+
 name: Generated APK AAB (Upload - Create Artifact To Github Action)
 
 env:
